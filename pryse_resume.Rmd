@@ -1,0 +1,121 @@
+---
+title: "Paul Pryse's resume"
+author: Paul Pryse
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Paul Pryse](https://avatars.githubusercontent.com/u/165822753?v=4){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> papryse@gmail.com
+- <i class="fa fa-github"></i> [github.com/papryse](https://github.com/papryse)
+- <i class="fa-solid fa-globe"></i> [Tableau Profile](https://public.tableau.com/app/profile/paul.pryse/vizzes)
+- <i class="fa fa-phone"></i> 314-680-2206
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+Google Analytics Data Professional Certified, R, Tableau, Stata, Excel, customer relationship management software, MiniVAN, Writing/Editing
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Paul Pryse {#title}
+--------------------------------------------------------------------------------
+
+### Data Analyst
+
+Data enthusiast with 8+ years in data-driven work with labor and non-profits. Leveraging a strong foundation in statistical analysis from graduate-level sociology coursework, complemented by a Google Career Certificate in Data Analytics. Strong writer and communicator with teaching and training experience. Seeking to pivot to a data analytics position that utilizes my skills in communication and solving real-world problems.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Wisconsin-Madison
+
+B.A. in Journalism
+
+2008
+
+### University of Wisconsin-Madison
+
+M.S. in Sociology
+
+2014
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Lead Organizer
+
+New Jersey Communities United
+
+Newark, NJ
+
+2021-2023
+
+### Membership Coordinator
+
+New Jersey Communities United
+
+Newark, NJ
+
+2019-2021
+
+::: concise
+- Created reports of membership numbers, organizer-to-member contacts, and union participation in NJCU’s database. 
+- Recruited and trained shop stewards and other leaders in CWA 1037’s home-based childcare provider and early childhood education units.
+- Represented workers through grievances and in Weingarten meetings. 
+- Organized residents of Camden, New Jersey to prevent the closure of an elementary school.
+:::
+
+### Campaign Organizer
+
+Southeastern Area Labor Federation of Pennsylvania, AFL-CIO
+
+Plymouth Meeting, PA
+
+2018
+
+::: concise
+- Mobilized union members to vote for labor-endorsed candidates in the 2018 midterm elections through door-to-door canvassing and phone banking.
+- Organized volunteer canvassing events and trained volunteers on MiniVAN.
+- Crafted talking points for each candidate and wrote campaign literature and phone bank scripts that articulated the union message.
+:::
+
+### Project Organizer
+
+American Federation of Teachers
+
+Philadelphia, PA
+
+2014-2018
+
+::: concise
+- Organized charter schools in North Philadelphia and took the teachers and staff at Olney Charter High School to a successful recognition election.
+- Managed data and trained volunteers on MiniVAN for voter turnout.
+- Established contact with workers, engaged and assessed them, developed and directed organizing committee members, created lists and maps of workplaces, maintained databases, and performed other duties associated with union organization. 
+:::
